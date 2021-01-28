@@ -472,6 +472,11 @@
 }    
     
 @media (max-width: 460px) {
+    .ts {
+        span {
+            top: -60px;
+        }
+    }
     .header__aside {
         display: block;
         text-align: center;
